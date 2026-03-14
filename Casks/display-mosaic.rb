@@ -1,6 +1,6 @@
 cask "display-mosaic" do
-  version "1.0.0"
-  sha256 "b1db580d4b5fb12ada2e1686096f8f3e8282871bfd28b9232c6b54377a1d615c"
+  version "1.0.1"
+  sha256 "e2482c71d5e2e7f54b8f88129d51d23d0f230a535fca8d56683ad0157a0373f8"
 
   url "https://github.com/mizou-co-jp/display-mosaic/releases/download/v#{version}/DisplayMosaic-#{version}.zip"
   name "DisplayMosaic"
